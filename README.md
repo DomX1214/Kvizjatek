@@ -1,2 +1,20 @@
-# Kv-zj-t-k
-A QuizMaster egy interaktív kvízplatform, ahol a felhasználók napi kihívásokban, valós idejű párbajokban és sokféle kategóriában tehetik próbára a tudásukat. A ranglistákkal, gyűjthető jelvényekkel és részletes statisztikákkal felvértezett oldal szórakoztató és közösségi élménnyé teszi a tanulást.
+# Kvízjáték
+
+## Készítők
+- Kovács Dominik
+- Szivák Rajmond
+
+## Cél
+
+## Indítás
+Az index.html megnyitása böngészőben.
+
+## Kész funkciók
+
+## Tesztelés
+
+## Feladatmegosztás
+
+## Források és átvett részek
+
+## Ismert hibák
