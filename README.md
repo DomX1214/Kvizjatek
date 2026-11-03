@@ -1,8 +1,8 @@
-# Kvízjáték
+# ⁉️ Kvízjáték
 
-## Készítők
-- Kovács Dominik
-- Szivák Rajmond
+## 👥 Készítők
+> Kovács Dominik
+> Szivák Rajmond
 
 ## Cél
 
