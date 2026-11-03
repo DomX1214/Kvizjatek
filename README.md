@@ -1,10 +1,10 @@
 # ⁉️ Kvízjáték
 
 ## 👥 Készítők
-> Kovács Dominik
-> Szivák Rajmond
+- Kovács Dominik
+- Szivák Rajmond
 
-## Cél
+## 🏁 Cél
 
 ## Indítás
 Az index.html megnyitása böngészőben.
