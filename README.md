@@ -12,12 +12,12 @@
 > Az index.html megnyitása böngészőben.
 
 ## Kész funkciók
-> 10 darab feleletválasztós kérdés
-> Automatikus pontszámítás CSS-sel
-> Eredményjelző kártya megjelenítése
-> Újrakezdési lehetőség (Reset)
-> Reszponzív és letisztult elrendezés
-
+> - 10 darab feleletválasztós kérdés
+> - Automatikus pontszámítás CSS-sel
+> - Eredményjelző kártya megjelenítése
+> - Újrakezdési lehetőség (Reset)
+> - Reszponzív és letisztult elrendezés
+> - 
 ## Tesztelés
 > A HTML megfelelően működik és készen áll.
 
