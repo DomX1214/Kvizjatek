@@ -1,2 +1,17 @@
-# Kv-zj-t-k
-Szórakozatató kvízjáték Iparis tanárokkal a középpontban!
+# ⁉️ Kvízjáték
+
+## 👥 Készítők
+
+## 🏁 Cél
+
+## Indítás
+
+## Kész funkciók
+
+## Tesztelés
+
+## Feladatmegosztás
+
+## Források és átvett részek
+
+## Ismert hibák
