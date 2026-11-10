@@ -17,7 +17,7 @@
 > - Eredményjelző kártya megjelenítése
 > - Újrakezdési lehetőség (Reset)
 > - Reszponzív és letisztult elrendezés
-> - 
+
 ## Tesztelés
 > A HTML megfelelően működik és készen áll.
 
